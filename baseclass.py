@@ -20,3 +20,5 @@ words = ['elevation', 'acclimatize', 'immobility', 'vacuous', 'sun weed', 'recou
          'microsteradian',
          'curly', 'supranational', 'prefab', 'bounce', 'skeleton', 'setter', 'infra conscious', 'idiocy',
          'terrarium']
+
+special_characters = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "<", ",", ">", ".", "?", "/", "'", '"', ":", ";", "}", "]", "[", "{", "|"]
